@@ -1,1 +1,1 @@
-# Thesis
+# This repository hosts the jar files that I developed as part of my thesis. In the zip "" file there are 3 files: CoreRecordingLibrary.jar, StandardRecordingLibrary.jar and ExtendedRecordingLibrary.jar.
